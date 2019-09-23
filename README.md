@@ -1,4 +1,4 @@
-#AND Digital Test
+#Spring Boot sample
 
 Build Restful CRUD API for a simple Telecom application using Spring Boot, Mysql, JPA.
 
@@ -46,7 +46,7 @@ change spring.datasource.username and spring.datasource.password as per your mys
 5. Build and run the app using maven
 
 mvn package
-java -jar target/AND_API
+java -jar target/REST_API
 Alternatively, you can run the app without packaging it using -
 
 mvn spring-boot:run
